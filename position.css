@@ -1,0 +1,38 @@
+.A1{
+    background-color: aquamarine;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    width: 100%;
+}
+.b1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.d{
+    position: relative;
+    top: 10rem;
+    left: 30%;
+}
+.e{
+    position: relative;
+    top: 25rem;
+    left: 16.57%;
+}
+.f{
+    position: relative;
+    top: 25rem;
+    left: 32%;
+}
+.g{
+    position: relative;
+    top: 17.5rem;
+    left: 4%;
+}
+.h{
+    position: relative;
+    top: 10rem;
+    left: 5%;
+}
